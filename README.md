@@ -1,2 +1,2 @@
 # sbd
-Live Sales from Locahost Server
+Live Sales from Localhost Server
